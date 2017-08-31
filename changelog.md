@@ -1,3 +1,10 @@
+0.1.0.1 Changelog:
+
+Changes:
+- Updated information in-game
+
+
+
 ----- 0.1.0.0:
 
 Changes:
