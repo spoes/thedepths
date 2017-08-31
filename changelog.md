@@ -1,4 +1,11 @@
-0.1.0.1 Changelog:
+----- 0.1.0.2:
+
+Fixes:
+- Fixed Ambrosium Slime not detecting player properly [a:0005]
+
+
+
+----- 0.1.0.1:
 
 Changes:
 - Updated information in-game
