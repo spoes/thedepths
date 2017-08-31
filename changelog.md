@@ -1,3 +1,9 @@
+0.0.1.01:
+
+Changes:
++ Removed crafting recipe for Test Bar
++ Updated the in-game information
+
 0.0.1:
 
 Changes:
