@@ -4,11 +4,15 @@ Fixes:
 + Fixed the velocity of arrows fired from the Ambrosium Bow [a:0001]
 + Ambrosium Bow now consumes arrows when used [a:0001]
 
+
+
 0.0.1.1:
 
 Changes:
 + Removed crafting recipe for Test Bar
 + Updated the in-game information
+
+
 
 0.0.1:
 
@@ -21,3 +25,5 @@ Changes:
 Known Issues:
 * Ambrosium Bow consumes no ammo and fires wooden arrows too slowly [a:0001]
 * Ambrosium Pickaxe's swing animation is out of sync with dig speed [a:0002]
+
+
