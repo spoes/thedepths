@@ -1,4 +1,10 @@
-0.0.1.01:
+0.0.1.2:
+
+Fixes:
++ Fixed the velocity of arrows fired from the Ambrosium Bow [a:0001]
++ Ambrosium Bow now consumes arrows when used [a:0001]
+
+0.0.1.1:
 
 Changes:
 + Removed crafting recipe for Test Bar
