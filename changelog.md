@@ -1,3 +1,12 @@
+----- 0.1.1.1 Changelog:
+
+Changes:
+
+- Modified all crafting recipes requiring Copper, Gold, or Iron specifically, so they now require either of the ores (Copper/Tin etc.)
+- The recipe for Cyrilite now uses raw Granite instead of Smooth Granite Blocks
+
+
+
 ----- 0.1.1.0 Changelog:
 
 Changes:
