@@ -1,3 +1,34 @@
+----- 0.1.1.0 Changelog:
+
+Changes:
+- Added Raw Mana, obtained from crafting Fallen Stars
+- Added Ambrosium Axe
+- Added Cyrilite Bar, Cyrilite Staff, and Cyrilite Saber
+	- Raw mana is used along with 10 Granite and 1 Copper Bar to craft a Cyrilite Bar
+	- Cyrilite Saber has a 1 in 50 chance to drop Raw Mana when used on NPCs
+- Added Steel Anvil and Steel Bars
+	- Steel Anvil takes 5 Steel Bars to craft
+	- All modded alloys now require a Steel Anvil to craft
+	- A Steel Bar is made at a regular furnace, using 2 Iron Bars and 2 Gel
+- Added uncraftable Gravitite Sword as a test
+	- Name subject to change due to possible copyright
+	- Attacks from the sword have a 50% chance to fling enemies upwards at a random velocity
+- Added unused Magmatic Steel Bar
+	- Crafting recipe is 1 Iron Bar, 2 Steel Bars, 2 Gel. The gel is a placeholder for an unconfirmed Underworld drop
+- Adjusted the size of the Ambrosium Pickaxe
+- Ambrosium Sword renamed in-game to Ambrosium Broadsword
+- Nerfed the Ambrosium Bar recipe down to 5 Gold Bars, 5 Demonite Bars and 2 Raw Ambrosium
+- Reduced Ambrosium Sword's damage from 38 to 28
+- Reduced Ambrosium Pickaxe's damage from 11 to 9
+- Reduced Ambrosium Pickaxe's mining power from 85% to 80%
+
+Fixes:
+
+
+Known Issues:
+- You can farm infinite Raw Mana by hitting Target Dummies [a:0006]
+- The Steel Anvil's item is referred to as 'Steel Anvil' but talking to the guide shows it as a 'Blacksmith's Anvil' [a:0007]
+
 ----- 0.1.0.2:
 
 Fixes:
