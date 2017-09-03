@@ -1,3 +1,19 @@
+----- 0.1.2.0 Changelog:
+
+Changes:
+
+- Temporarily removed the Granite from the Cyrilite recipe until a better balanced recipe is thought up
+- Modified the Cyrilite Sword to make it a more viable option instead of gold/plat sword
+	- Damage increased from 11 to 12
+	- Swings faster and doesn't auto-swing anymore
+	- Raw Mana drop rate increased from 1 in 50 chance to 1 in 30
+	- In-game sprite and hitbox is smaller
+- Added Cyrilite Pickaxe, Axe and Hammer
+	- The drop rate for Raw Mana is lower, at approx. 1 in 50
+- Gravitite Sword now launches NPCs higher
+- Magmatic Steel Bar now correctly displays as an orange-tier item
+- Modified the Steel Bar sprite to look less intense
+
 ----- 0.1.1.1 Changelog:
 
 Changes:
